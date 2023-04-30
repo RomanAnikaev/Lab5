@@ -1,0 +1,15 @@
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.csproj.AssemblyReference.cache
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.csproj.SuggestedBindingRedirects.cache
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.Form1.resources
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.Properties.Resources.resources
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.csproj.GenerateResource.cache
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.csproj.CoreCompileInputs.cache
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\bin\Debug\Lab5Anikaev.exe.config
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\bin\Debug\Lab5Anikaev.exe
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\bin\Debug\Lab5Anikaev.pdb
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.exe
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.pdb
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\bin\Debug\NLog.dll
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\bin\Debug\NLog.xml
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\obj\Debug\Lab5Anikaev.csproj.CopyComplete
+D:\HNURE\C#.Net\Lab5Anikaev\Lab5Anikaev\bin\Debug\NLog.config
